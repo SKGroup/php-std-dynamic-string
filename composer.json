@@ -1,8 +1,8 @@
 {
-  "name": "sk/php-std-dynamic-string",
+  "name": "skgroup/php-std-dynamic-string",
   "type": "library",
   "description": "PHP Template based random string generator",
-  "keywords": ["rbac", "access control", "php-rbac", "skgroup"],
+  "keywords": ["string", "dynamic string", "skgroup"],
   "minimum-stability": "stable",
   "license": "MIT",
 
@@ -20,7 +20,7 @@
 
   "autoload": {
     "psr-4": {
-      "SK\\Std\\String\\": "src/"
+      "sKGroup\\Std\\String\\": "src/"
     }
   }
 }

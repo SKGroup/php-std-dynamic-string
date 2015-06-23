@@ -11,11 +11,11 @@
  * All Rights Reserved.
  * ----------------------------------------------
  */
-namespace SK\Std\String;
+namespace sKGroup\Std\String;
 
 /**
  * Class DynamicString
- * @package SK\Std\String
+ * @package sKGroup\Std\String
  */
 class DynamicString
 {
